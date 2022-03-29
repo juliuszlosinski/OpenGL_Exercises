@@ -23,4 +23,8 @@ Two different VAO and shader programs.
 
 ![image](https://user-images.githubusercontent.com/72278818/160699153-090670fd-3515-4127-aa12-2a11995ced69.png)
 
+**5.8.3 Create two shader programs where the second program uses a different fragment shader that outputs the color yellow; drwa both triangles again where one outputes the color yellow.**
 
+![image](https://user-images.githubusercontent.com/72278818/160704294-a54f95ec-1afe-4cf4-aaba-b25f4cf997dd.png)
+
+![image](https://user-images.githubusercontent.com/72278818/160704463-ea4b4594-ceca-4bc5-9bf5-f103d02242ca.png)
