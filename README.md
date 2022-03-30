@@ -41,3 +41,11 @@ Two different VAO and shader programs.
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/72278818/160836090-718efdfc-acaf-42d1-a9ef-2ee1aeef227e.gif)
 
+**6.7.3 Output the vertex position to the fragment shader using the out keyword and set the fragment's color equal to this vertex position (see how even the vertex position values are interpolated across the triangle). Once you managed to do this; try to answer the following question: why is the bottom-left side of our triangle black?**
+
+![image](https://user-images.githubusercontent.com/72278818/160845492-ba879388-4826-4ed2-9a82-2b5da90856f8.png)
+
+![image](https://user-images.githubusercontent.com/72278818/160844660-2b4f277e-2f00-46cd-ad7b-ce302bf14e96.png)
+
+The bottom-left side is black because X and Y are negative and there is no such a thing like a negative RGB colors, so it is by default black. You can see that if we go higher to the top green is lighter, because color of vertex is (0.0f, 1.0f, 0.0f) RGB. If we are going down we will have much darker color.
+
