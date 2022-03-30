@@ -28,3 +28,10 @@ Two different VAO and shader programs.
 ![image](https://user-images.githubusercontent.com/72278818/160704294-a54f95ec-1afe-4cf4-aaba-b25f4cf997dd.png)
 
 ![image](https://user-images.githubusercontent.com/72278818/160704463-ea4b4594-ceca-4bc5-9bf5-f103d02242ca.png)
+
+**6.7.1 Adjust the vertex shader so that the triangle is upside down**
+
+![image](https://user-images.githubusercontent.com/72278818/160831423-571cd3e8-0175-4729-ba8c-8bf9c8cd8c87.png)
+
+![image](https://user-images.githubusercontent.com/72278818/160831471-b1fdb401-6f51-4a30-bd48-08e7ed0f2920.png)
+
