@@ -35,3 +35,9 @@ Two different VAO and shader programs.
 
 ![image](https://user-images.githubusercontent.com/72278818/160831471-b1fdb401-6f51-4a30-bd48-08e7ed0f2920.png)
 
+**6.7.2 Specify a horizontal offset via a uniform and move triangle right side of the screen in the vertex shader using this offset value.**
+
+![image](https://user-images.githubusercontent.com/72278818/160836070-ea39df24-31e0-45a9-a288-eeb353ad9c90.png)
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/72278818/160836090-718efdfc-acaf-42d1-a9ef-2ee1aeef227e.gif)
+
