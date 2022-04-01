@@ -55,3 +55,6 @@ The bottom-left side is black because X and Y are negative and there is no such 
 
 ![image](https://user-images.githubusercontent.com/72278818/161201445-dce5ee94-cb6a-4030-9b81-f42e3488171b.png)
 
+**7.8.2 Experiment with different texture wrapping methods by specyfing texture coordinates in the range 0.0f to 2.0f instead of 0.0f to 1.0f. See if you can experiment with other wrapping methods as well. See if you can display 4 smiley faces on a single container image clamped at its edge: solution, result. See if you can experiment with other wrapping methods as well.**
+
+![image](https://user-images.githubusercontent.com/72278818/161210934-b8e24cc3-c365-4401-9f0c-4789a58a9cdd.png)
