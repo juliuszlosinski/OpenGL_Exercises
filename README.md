@@ -57,4 +57,13 @@ The bottom-left side is black because X and Y are negative and there is no such 
 
 **7.8.2 Experiment with different texture wrapping methods by specyfing texture coordinates in the range 0.0f to 2.0f instead of 0.0f to 1.0f. See if you can experiment with other wrapping methods as well. See if you can display 4 smiley faces on a single container image clamped at its edge: solution, result. See if you can experiment with other wrapping methods as well.**
 
+![image](https://user-images.githubusercontent.com/72278818/161262775-782cb90a-13cb-4549-bb56-dddf4cb5b727.png)
+
 ![image](https://user-images.githubusercontent.com/72278818/161210934-b8e24cc3-c365-4401-9f0c-4789a58a9cdd.png)
+
+**7.8.3 Try to display only the center pixels of the texture image on the rectagnle in such a way thath the individual pixels are getting visible by changing the texture coordinates. Try to set the texture filtering method to GL_NEAREST to see the pixels more clearly.**
+
+![image](https://user-images.githubusercontent.com/72278818/161262983-d7b3b6a6-f848-4387-9b36-e57dfc774601.png)
+
+![image](https://user-images.githubusercontent.com/72278818/161262369-71e09d9b-794c-4a9b-adc5-0d91a16441f9.png)
+
