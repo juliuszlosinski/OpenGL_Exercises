@@ -67,3 +67,9 @@ The bottom-left side is black because X and Y are negative and there is no such 
 
 ![image](https://user-images.githubusercontent.com/72278818/161262369-71e09d9b-794c-4a9b-adc5-0d91a16441f9.png)
 
+**7.8.4 Use a uniform variable as the mix function's third parameter to vary the amount the two texture are visible. Use the up and down arrow keys to change how much the container or the smiley facey is visible.**
+
+![image](https://user-images.githubusercontent.com/72278818/161266809-9c2c178e-dec0-43cd-8bc0-e0b7f263bf6d.png)
+
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/72278818/161266710-5a9d0f40-5151-42df-9224-e3725a6e555a.gif)
+
