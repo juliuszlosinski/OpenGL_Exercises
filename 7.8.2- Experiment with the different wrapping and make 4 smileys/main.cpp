@@ -87,7 +87,7 @@ int main(void)
 
 	// ..:: SETTING UP AN OBJECT TO DRAW ::...
 
-	// 3. Output the vertex position to the fragment shader using the out keyword and set the fragment’s color equal to this vertex position(see how even the vertex position values are interpolated across the triangle)
+	// 3. Output the vertex position to the fragment shader using the out keyword and set the fragmentâ€™s color equal to this vertex position(see how even the vertex position values are interpolated across the triangle)
 
 	Shader shader("Shaders/7.8.1-Shader.vert", "Shaders/7.8.1-Shader.frag");
 
@@ -95,10 +95,10 @@ int main(void)
 
 		// VERTEX				// COLOR			 // TEXTURE
 
-		0.5f, 0.5f, 0.0f,		1.0f,0.0f,0.0f,		1.0f, 1.0f, // 0
-		0.5f, -0.5f, 0.0f,		0.0f,1.0f,0.0f,		1.0f, 0.0f, // 1
+		0.5f, 0.5f, 0.0f,		1.0f,0.0f,0.0f,		2.0f, 2.0f, // 0
+		0.5f, -0.5f, 0.0f,		0.0f,1.0f,0.0f,		2.0f, 0.0f, // 1
 		-0.5f, -0.5f, 0.0f,		0.0f,0.0f,1.0f,		0.0f, 0.0f, // 2
-		-0.5f, 0.5f, 0.0f,		1.0f,0.0f,0.0f,		0.0f, 1.0f  // 3
+		-0.5f, 0.5f, 0.0f,		1.0f,0.0f,0.0f,		0.0f, 2.0f  // 3
 	};
 
 	GLuint indices[] = {
