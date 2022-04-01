@@ -49,3 +49,9 @@ Two different VAO and shader programs.
 
 The bottom-left side is black because X and Y are negative and there is no such a thing like a negative RGB colors, so it is by default black. You can see that if we go higher to the top green is lighter, because color of vertex is (0.0f, 1.0f, 0.0f) RGB. If we are going down we will have much darker color.
 
+**7.8.1 Make sure only the happy face looks in the other/reverse direction by changing the fragment shader.**
+
+![image](https://user-images.githubusercontent.com/72278818/161201544-72a53c47-cb6b-47df-962c-fd82bc3d8003.png)
+
+![image](https://user-images.githubusercontent.com/72278818/161201445-dce5ee94-cb6a-4030-9b81-f42e3488171b.png)
+
