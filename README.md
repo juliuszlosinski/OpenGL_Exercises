@@ -79,3 +79,13 @@ The bottom-left side is black because X and Y are negative and there is no such 
 
 ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/72278818/161394659-655d2472-b115-4434-ab51-07f5553b19f7.gif)
 
+**8.19.2 Try drawing a second container with another call to glDrawElements but place it at a
+different position using transformations only. Make sure this second container is placed at
+the top-left of the window and instead of rotating, scale it over time (using the sin function
+is useful here; note that using sin will cause the object to invert as soon as a negative scale
+is applied)**
+
+![image](https://user-images.githubusercontent.com/72278818/161396219-83b73a6d-f30c-4b40-b6f8-e1cf791347fe.png)
+
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/72278818/161396290-423cd20f-3e2d-4a76-989d-c90e9430e452.gif)
+
