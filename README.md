@@ -73,3 +73,9 @@ The bottom-left side is black because X and Y are negative and there is no such 
 
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/72278818/161266710-5a9d0f40-5151-42df-9224-e3725a6e555a.gif)
 
+**8.19.1 Using the last transformation on the container, try switching the order around by first rotating and then translating. See what happens and try to reason why this happens.**
+
+![image](https://user-images.githubusercontent.com/72278818/161394759-7d884a3b-45d3-4477-91b3-f62a82a7d5be.png)
+
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/72278818/161394659-655d2472-b115-4434-ab51-07f5553b19f7.gif)
+
