@@ -89,3 +89,8 @@ is applied)**
 
 ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/72278818/161396290-423cd20f-3e2d-4a76-989d-c90e9430e452.gif)
 
+**9.9.1 Try experimenting with the FoV and aspect-ratio parameters of GLM's projection function. See if you can figure out how those affect the perspective frustum.**
+
+![image](https://user-images.githubusercontent.com/72278818/161443695-cdccb646-af6f-45d6-8dcb-753cd2bccb2d.png)
+
+![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/72278818/161443664-37318377-80fe-4b7c-af7a-ccb641a99e98.gif)
