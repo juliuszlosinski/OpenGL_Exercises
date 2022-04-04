@@ -94,3 +94,15 @@ is applied)**
 ![image](https://user-images.githubusercontent.com/72278818/161443695-cdccb646-af6f-45d6-8dcb-753cd2bccb2d.png)
 
 ![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/72278818/161443664-37318377-80fe-4b7c-af7a-ccb641a99e98.gif)
+
+**9.9.2 Play with view matrix by translating in several directions and see how the scene changes. Think of the view matrix as a camera object.**
+
+![image](https://user-images.githubusercontent.com/72278818/161518264-a42d4d34-18df-47b8-9af8-2768a6369307.png)
+
+![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/72278818/161518203-5b765058-9280-4d46-8b5f-c69d7e62f41b.gif)
+
+**9.9.3 Try make every 3rd container (including the 1st) rotate over time, while leaving the other containers static using just the model matrix.**
+
+![image](https://user-images.githubusercontent.com/72278818/161519796-49d997a7-bb77-474f-8523-8d95ecb65d6a.png)
+
+![ezgif com-gif-maker (10)](https://user-images.githubusercontent.com/72278818/161522610-0c8ded73-504c-4a40-a0dc-ffff37db969b.gif)
