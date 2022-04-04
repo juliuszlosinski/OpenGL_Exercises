@@ -95,6 +95,8 @@ is applied)**
 
 ![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/72278818/161443664-37318377-80fe-4b7c-af7a-ccb641a99e98.gif)
 
+![ezgif com-gif-maker (9)](https://user-images.githubusercontent.com/72278818/161588920-4569ed73-37fb-4628-b327-6b1cc81facf0.gif)
+
 **9.9.2 Play with view matrix by translating in several directions and see how the scene changes. Think of the view matrix as a camera object.**
 
 ![image](https://user-images.githubusercontent.com/72278818/161518264-a42d4d34-18df-47b8-9af8-2768a6369307.png)
