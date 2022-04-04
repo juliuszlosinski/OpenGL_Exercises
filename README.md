@@ -101,5 +101,8 @@ is applied)**
 
 ![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/72278818/161518203-5b765058-9280-4d46-8b5f-c69d7e62f41b.gif)
 
+**9.9.3 Try make every 3rd container (including the 1st) rotate over time, while leaving the other containers static using just the model matrix.**
 
+![image](https://user-images.githubusercontent.com/72278818/161519796-49d997a7-bb77-474f-8523-8d95ecb65d6a.png)
 
+![ezgif com-gif-maker (10)](https://user-images.githubusercontent.com/72278818/161522610-0c8ded73-504c-4a40-a0dc-ffff37db969b.gif)
