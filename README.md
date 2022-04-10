@@ -95,6 +95,8 @@ is applied)**
 
 ![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/72278818/161443664-37318377-80fe-4b7c-af7a-ccb641a99e98.gif)
 
+![ezgif com-gif-maker (9)](https://user-images.githubusercontent.com/72278818/161588920-4569ed73-37fb-4628-b327-6b1cc81facf0.gif)
+
 **9.9.2 Play with view matrix by translating in several directions and see how the scene changes. Think of the view matrix as a camera object.**
 
 ![image](https://user-images.githubusercontent.com/72278818/161518264-a42d4d34-18df-47b8-9af8-2768a6369307.png)
@@ -106,3 +108,17 @@ is applied)**
 ![image](https://user-images.githubusercontent.com/72278818/161519796-49d997a7-bb77-474f-8523-8d95ecb65d6a.png)
 
 ![ezgif com-gif-maker (10)](https://user-images.githubusercontent.com/72278818/161522610-0c8ded73-504c-4a40-a0dc-ffff37db969b.gif)
+
+**10.4.1 See if you can transform the camera class in such a way that is becomes a true fps camera where you cannot fly; you can only look around while staying on the xz plane.**
+
+![image](https://user-images.githubusercontent.com/72278818/162618192-ff636eea-39b4-4a69-8603-116774afa1d4.png)
+
+![ezgif com-gif-maker (12)](https://user-images.githubusercontent.com/72278818/162618240-e99771d6-7362-42f9-a7fb-d80a2d02a3fc.gif)
+
+**10.4.2 Try to create your own LookAt function where you manually create a view matrix.**
+
+![image](https://user-images.githubusercontent.com/72278818/162619602-05f76334-497a-4897-9577-417ecb624c8b.png)
+
+![image](https://user-images.githubusercontent.com/72278818/162619585-1d5005d1-4db2-49aa-b9df-427b92e89a33.png)
+
+![ezgif com-gif-maker (13)](https://user-images.githubusercontent.com/72278818/162619750-26ab6e04-3cfd-4173-9424-49730fec8718.gif)
