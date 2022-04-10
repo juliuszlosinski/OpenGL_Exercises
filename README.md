@@ -114,3 +114,11 @@ is applied)**
 ![image](https://user-images.githubusercontent.com/72278818/162618192-ff636eea-39b4-4a69-8603-116774afa1d4.png)
 
 ![ezgif com-gif-maker (12)](https://user-images.githubusercontent.com/72278818/162618240-e99771d6-7362-42f9-a7fb-d80a2d02a3fc.gif)
+
+**10.4.2 Try to create your own LookAt function where you manually create a view matrix.**
+
+![image](https://user-images.githubusercontent.com/72278818/162619602-05f76334-497a-4897-9577-417ecb624c8b.png)
+
+![image](https://user-images.githubusercontent.com/72278818/162619585-1d5005d1-4db2-49aa-b9df-427b92e89a33.png)
+
+![ezgif com-gif-maker (13)](https://user-images.githubusercontent.com/72278818/162619750-26ab6e04-3cfd-4173-9424-49730fec8718.gif)
