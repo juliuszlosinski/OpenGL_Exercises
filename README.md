@@ -108,3 +108,9 @@ is applied)**
 ![image](https://user-images.githubusercontent.com/72278818/161519796-49d997a7-bb77-474f-8523-8d95ecb65d6a.png)
 
 ![ezgif com-gif-maker (10)](https://user-images.githubusercontent.com/72278818/161522610-0c8ded73-504c-4a40-a0dc-ffff37db969b.gif)
+
+**10.4.1 See if you can transform the camera class in such a way that is becomes a true fps camera where you cannot fly; you can only look around while staying on the xz plane.**
+
+![image](https://user-images.githubusercontent.com/72278818/162618192-ff636eea-39b4-4a69-8603-116774afa1d4.png)
+
+![ezgif com-gif-maker (12)](https://user-images.githubusercontent.com/72278818/162618240-e99771d6-7362-42f9-a7fb-d80a2d02a3fc.gif)
